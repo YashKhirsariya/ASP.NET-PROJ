@@ -1,0 +1,1117 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_InnerHead"><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /><title>
+	IIT-JAM Question Paper- 2007 Computer Applications. Question Papers
+</title><meta id="ctl00_keywords" name="keywords" content="Latestt" /><meta id="ctl00_description" name="description" content="Latestt" /><link href="../App_Themes/Generic/main.css" rel="stylesheet" type="text/css" /><link href="../App_Themes/Generic/InnerNav.css" rel="stylesheet" type="text/css" /><link href="../App_Themes/Generic/common.css" rel="stylesheet" type="text/css" /><link href="../App_Themes/Generic/jobs.css" rel="stylesheet" type="text/css" /><link href="../App_Themes/Generic/recruiters.css" rel="stylesheet" type="text/css" /><link href="../App_Themes/Generic/account.css" rel="stylesheet" type="text/css" /><link href="../App_Themes/Generic/challenge.css" rel="stylesheet" type="text/css" /><link href="../App_Themes/Generic/QaCss.css" rel="stylesheet" type="text/css" /><link href="../App_Themes/Generic/index.css" rel="stylesheet" type="text/css" /><meta name="description" content="IIT-JAM Question Paper- 2007 Computer Applications. Question Papers" /><meta name="keywords" content="IIT-JAM Question Paper- 2007 Computer Applications. Question Papers" /></head>
+<body>
+
+    
+   <script type="text/javascript" src="/Js/animatedcollapse.js"></script>
+    <script type="text/javascript" src="/Js/profile-tab.js"></script>
+    <script type="text/javascript" src="/Js/comment-tab.js"></script>
+    <script type="text/javascript" src="/Js/whitepapertab.js"></script>
+    <script type="text/javascript" src="/Js/header.js"></script>    
+     <script type="text/javascript" src="/Js/header-sub.js"></script>
+     <script type="text/javascript" src="/Js/header-sub1.js"></script>
+    <script type="text/javascript" src="/Js/AC_OETags.js"></script>
+       <script type="text/javascript" src="/jquerycssmenu.js"></script>
+   
+    
+    <form name="aspnetForm" method="post" action="qpaperdescription.aspx?CatId=783&amp;CatName=IIT-JAM-Question-Paper--2007-Computer-Applications." onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjU3MjYzOTQwDxYCHglXcElkVGl0bGUCjwYWAmYPZBYCAgEPZBYCAgcPZBYSAgQPFgIeBFRleHQF5QJHZW5lcmFsIEluc3RydWN0aW9uIDoNPGJyPjEuRm9yIGVhY2ggcXVlc3Rpb24sIHlvdSB3aWxsIGJlIGF3YXJkZWQgMyAodGhyZWUpIG1hcmtzLCBpZiB5b3UgaGF2ZSBkYXJrZW5lZCBvbmx5IG9uZSBidWJibGUgY29ycmVzcG9uZGluZyB0byB0aGUgY29ycmVjdCBhbnN3ZXIuDTxicj4yLkluIGNhc2UgeW91IGhhdmUgbm90IGRhcmtlbmVkIGFueSBidWJibGUgZm9yIGEgcXVlc3Rpb24sIHlvdSB3aWxsIGJlIGF3YXJkZWQgMCAoemVybykgbWFyayBmb3IgdGhhdCBxdWVzdGlvbi4NPGJyPjMuSW4gYWxsIG90aGVyIGNhc2VzLCB5b3Ugd2lsbCBiZSBhd2FyZGVkIC0xIChtaW51cyBvbmUpIG1hcmsgZm9yIHRoZSBxdWVzdGlvbi5kAgsPFgIeCWlubmVyaHRtbAWgATxpbWcgc3JjPS9JbWFnZXMvcmF0aW5nczMuZ2lmIC8+PGltZyBzcmM9L0ltYWdlcy9yYXRpbmdzMy5naWYgLz48aW1nIHNyYz0vSW1hZ2VzL3JhdGluZ3MzLmdpZiAvPjxpbWcgc3JjPS9JbWFnZXMvcmF0aW5nczMuZ2lmIC8+PGltZyBzcmM9L0ltYWdlcy9yYXRpbmdzMy5naWYgLz5kAgwPDxYCHghJbWFnZVVybAUUL2ltYWdlcy9yYXRpbmdzMy5naWYWAh4Lb25Nb3VzZU92ZXIFDXJhdGVEZXNpZ24oMSlkAg0PDxYCHwMFFC9pbWFnZXMvcmF0aW5nczMuZ2lmFgIfBAUNcmF0ZURlc2lnbigzKWQCDg8PFgIfAwUUL2ltYWdlcy9yYXRpbmdzMy5naWYWAh8EBQ1yYXRlRGVzaWduKDUpZAIPDw8WAh8DBRQvaW1hZ2VzL3JhdGluZ3MzLmdpZhYCHwQFDXJhdGVEZXNpZ24oNylkAhAPDxYCHwMFFC9pbWFnZXMvcmF0aW5nczMuZ2lmFgIfBAUNcmF0ZURlc2lnbig5KWQCHw8PFgIfAwUUL0ltYWdlcy90aHVtYl91cC5naWZkZAIgDw8WAh8DBRYvSW1hZ2VzL3RodW1iX2Rvd24uZ2lmZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgwFG2N0bDAwJENQSFNpdGVJbm5lciRpbWdSYXRlMQUbY3RsMDAkQ1BIU2l0ZUlubmVyJGltZ1JhdGUyBRtjdGwwMCRDUEhTaXRlSW5uZXIkaW1nUmF0ZTMFG2N0bDAwJENQSFNpdGVJbm5lciRpbWdSYXRlNAUbY3RsMDAkQ1BIU2l0ZUlubmVyJGltZ1JhdGU1BSFjdGwwMCRDUEhTaXRlSW5uZXIkaW1nYnRuVGh1bWJzVXAFI2N0bDAwJENQSFNpdGVJbm5lciRpbWdidG5UaHVtYnNEb3duBRpjdGwwMCRDUEhTaXRlSW5uZXIkY2hrU3BhbQUbY3RsMDAkQ1BIU2l0ZUlubmVyJGNoa0FkdWx0BR1jdGwwMCRDUEhTaXRlSW5uZXIkY2hrSGF0ZWZ1bAUeY3RsMDAkQ1BIU2l0ZUlubmVyJGNoa0NweVJpZ2h0BSFjdGwwMCRDUEhTaXRlSW5uZXIkaW1nYnRuRG93bkxvYWTdfamA86k18P9/YjTcWyv50jedlw==" />
+</div>
+
+<script type="text/javascript">
+<!--
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+// -->
+</script>
+
+
+<script src="/WebResource.axd?d=-nyP1jK9tUFIFIJkSRuaKQ2&amp;t=634359876220468750" type="text/javascript"></script>
+
+
+<script src="/WebResource.axd?d=PbcDa4WuAcCbcTx5E0SJMRaMXdg_wHJJtdTGSCxPeG01&amp;t=634359876220468750" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=DTPUE655qftPqsz-aeKeCDpsYof2N8ToiDwlwYnIlO8w_78jvCFHZ_dZLZyTBuBMs8jj6YmkQgJOHRMwn821gON4ldAecSykFCGDjPZ9KB81&amp;t=634360014649375000" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=DTPUE655qftPqsz-aeKeCDpsYof2N8ToiDwlwYnIlO8w_78jvCFHZ_dZLZyTBuBMs8jj6YmkQgJOHRMwn821gFuT9IW4RkSfcUi1Gbor2jaj5c3KpxsFZn4zK1M8NrIw0&amp;t=634360014649375000" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=1dncOt1RWvsZKLgi1Fckv6PGxKSTWm52xbsnfqh9fElxoeq0WlD2gEF2PNMxrQI2IUAhwkLxpxKZx6tRLcOPMw2&amp;t=634477834348250000" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=1dncOt1RWvsZKLgi1Fckv6PGxKSTWm52xbsnfqh9fEl307EbS4coeEYZnGwSN_B04W7_pw73_kt2WKBE5ZE7-Q2&amp;t=634477834348250000" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=1dncOt1RWvsZKLgi1Fckv6PGxKSTWm52xbsnfqh9fEnfOwcEMzWqQ9eErMTMtLTlrBW67I6R6U7caTJr8dkeBA2&amp;t=634477834348250000" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=1dncOt1RWvsZKLgi1Fckv6PGxKSTWm52xbsnfqh9fEm1Q0oarT7SzwwM-AEAI-w1LjPmCwy8m9rmcNzYzsC6d0ws2Pif-LkLHIDgJyGond81&amp;t=634477834348250000" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=1dncOt1RWvsZKLgi1Fckv6PGxKSTWm52xbsnfqh9fEnfOwcEMzWqQ9eErMTMtLTlHsJDEKCbXBPjapx8F1PMv0VnYhGnxo3PSMAB_fi1T5g1&amp;t=634477834348250000" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=1dncOt1RWvsZKLgi1Fckv6PGxKSTWm52xbsnfqh9fEkT5E2IN11JuM0N_jcq4vwpOXmV1j17ZwudKf_tmG4IhOQKvF-nQ__J9f7BGuQabc01&amp;t=634477834348250000" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=1dncOt1RWvsZKLgi1Fckv6PGxKSTWm52xbsnfqh9fEk_uaWJfEWptFZLx3CbFAj-Cs6hUEZObYHvZaj74c2t_raW09eAqpQnJQiQoklo4y3TClEi0n_IIHNK7ZDAZGNd0&amp;t=634477834348250000" type="text/javascript"></script>
+<script type="text/javascript">
+<!--
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+// -->
+</script>
+
+    
+        <div id="in-con">
+            <!--header starts here-->
+			<div class="tlog-inner">
+    <div class="tlog-bor">
+	<div class="top_right_niv">
+	 
+
+
+	
+	 
+	<a href="http://www.latestt.com/common/HowItWorks.aspx"><img src="/images/how_it_works.gif" alt="" /></a> 
+	<a href="http://www.latestt.com/common/faq.aspx"><img src="/images/faq.gif" alt="" /></a>
+	
+	<div style="width:200px; float:right; margin:0 0 0 0; position: absolute; top: 0px; left: 160px; ">
+<a href="http://www.facebook.com/pages/Latestt/173396966063340">
+<img src="../Images/facebook.png" id="ctl00_Img1" />
+</a>
+<a href="http://www.twitter.com/Latestt">
+<img src="../Images/twitter.png" id="ctl00_Img2" />
+</a>
+<!-- Place this tag where you want the +1 button to render -->
+<g:plusone size="medium"></g:plusone>
+<!-- Place this tag after the last plusone tag -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+</div>
+	<div class="l_logout">
+<div class="l_logout_left"><img src='http://www.latestt.com/common/processimage.aspx?FilePath=images/m_icon.gif&size=7' alt="" align="left"/>
+<div class="l_logout_left_text"><img src="/images/green-a.gif" alt="" width="9" height="9" />
+ Nitz<br />
+
+&nbsp;&nbsp;&nbsp;Latestt Score:50 <br />
+
+&nbsp;&nbsp;&nbsp;Pings:0</div> <br />
+
+</div>
+<div class="l_logout_right">
+<a id="ctl00_lnkLogout" href="javascript:__doPostBack('ctl00$lnkLogout','')">Logout</a>
+<br />
+
+<a href="http://www.latestt.com/accounts/profile.aspx">My Profile</a></div>
+<div class="clear"></div>
+
+</div>
+	
+	
+	</div>
+	</div>             
+            </div>
+            
+			<div class="all_top_banners">
+			<div class="left_a"><br><a href="http://www.latestt.com/"><img src="/images/logo.gif" alt="Latestt.com" align:left;  /></a></div>
+		
+	     <div style="width:468px; float:right; padding-top:10px;">
+	
+
+                    <a href="http://www.craffts.com" rel="nofollow">
+                        <img alt="craffts" src="/Images/crafftsbanner2.gif" />
+                    </a>
+
+			</div>
+			</div>
+   <br class="clear" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+     <div id="nav"> 
+  				<ul>
+  				<li ><a href="http://www.latestt.com"><span>Home</span></a></li>
+				
+				
+					
+				<li class="active"><a href="http://www.education.latestt.com" >iLearn</a>
+				<ul style="z-index:1">
+				<li>
+				<a href='/careeroptioncourse.aspx'>Career Options</a>
+				</li>
+				<li>
+				<a href='/universities/'>Universities In India</a> 
+				</li>
+				<li>
+				<a href='/colleges.aspx'>Colleges In India</a>
+				</li>
+				<li>
+				<a href='/questionpapers.aspx'>Question Papers</a>
+				</li>
+				<li>
+				<a href='/scholarship/scholarshiplanding.aspx'>Scholarships</a>
+				</li>
+				<li>
+				<a href='/compexams/complanding.aspx'>Competitive Exams</a>
+				</li>
+				<li>
+				<a href='/entranceexams/entrancelanding.aspx'>Entrance Exams</a>
+				</li>
+				 <li>
+				 <a href='/updates/'>Updates & Notifications</a>
+				 </li>
+				<li>
+				<a href='/project/'>Projects</a>
+				</li>
+				
+				<li>
+				<a href='/syllabus/'>Syllabus</a>
+				</li>
+				
+				<li>
+				<a href='/careerresource/'>Career Resources</a>
+				</li>
+				<li>
+				<a href='/featured-colleges-in-india/'>Featured Colleges In India</a>
+				</li>
+				<li>
+				<a href='/state-education-in-india/'>State Education In India</a>
+				</li>
+				<li>
+				<a href='/topcolleges/'>Top Colleges In India</a>
+				</li>
+				<li>
+				<a href='/education-loan/'>Education Loan</a>
+				</li>
+				<li>
+				<a href='/online-education/'>Online Education</a>
+				</li> 
+				</ul>
+				</li>
+				
+				<li><a href="http://www.latestt.com/common/ishare.aspx">iShare</a>
+				
+				<ul>
+				  
+						
+                        
+                       
+                     
+                        	
+                          <li class="non" id="Li7"><a href='http://www.latestt.com/docshare/docshare.aspx?catId=1&valType=1' >DocShares</a>                        
+                          <ul><li><a href=http://www.latestt.com/Docshare/docshare.aspx?catId=1&catName=all&valType=1 ><span>All</span></a></li><li><a href=http://www.latestt.com/Docshare/docshare.aspx?catId=30&catName=art-and-culture-documents&valType=1 ><span>Art and Culture Documents</span></a></li><li><a href=http://www.latestt.com/Docshare/docshare.aspx?catId=28&catName=business-documents&valType=1 ><span>Business Documents</span></a></li><li><a href=http://www.latestt.com/Docshare/docshare.aspx?catId=2&catName=career-resources&valType=1 ><span>Career Resources</span></a></li><li><a href=http://www.latestt.com/Docshare/docshare.aspx?catId=32&catName=finance-documents&valType=1 ><span>Finance Documents</span></a></li><li><a href=http://www.latestt.com/Docshare/docshare.aspx?catId=35&catName=gadgets-documents&valType=1 ><span>Gadgets Documents</span></a></li><li><a href=http://www.latestt.com/Docshare/docshare.aspx?catId=8&catName=health-documents&valType=1 ><span>Health Documents</span></a></li><li><a href=http://www.latestt.com/Docshare/docshare.aspx?catId=22&catName=humor-documents&valType=1 ><span>Humor Documents</span></a></li><li><a href=http://www.latestt.com/Docshare/docshare.aspx?catId=3&catName=information-tech-tutorials&valType=1 ><span>Information Tech Tutorials</span></a></li><li><a href=http://www.latestt.com/Docshare/docshare.aspx?catId=23&catName=legal-documents&valType=1 ><span>Legal Documents</span></a></li><li><a href=http://www.latestt.com/Docshare/docshare.aspx?catId=33&catName=lifestyle-documents&valType=1 ><span>Lifestyle Documents</span></a></li><li><a href=http://www.latestt.com/Docshare/docshare.aspx?catId=34&catName=other-documents&valType=1 ><span>Other Documents</span></a></li><li><a href=http://www.latestt.com/Docshare/docshare.aspx?catId=24&catName=politics-documents&valType=1 ><span>Politics Documents</span></a></li><li><a href=http://www.latestt.com/Docshare/docshare.aspx?catId=36&catName=quotation-documents&valType=1 ><span>Quotation Documents</span></a></li><li><a href=http://www.latestt.com/Docshare/docshare.aspx?catId=26&catName=religion-documents&valType=1 ><span>Religion Documents</span></a></li><li><a href=http://www.latestt.com/Docshare/docshare.aspx?catId=27&catName=sports-documents&valType=1 ><span>Sports Documents</span></a></li><li><a href=http://www.latestt.com/Docshare/docshare.aspx?catId=29&catName=study-guides&valType=1 ><span>Study Guides</span></a></li><li><a href=http://www.latestt.com/Docshare/docshare.aspx?catId=31&catName=travel-tourism-documents&valType=1 ><span>Travel Tourism Documents</span></a></li></ul>
+                        </li>
+                        
+                            <li class="non" id="Li2"><a href='http://www.latestt.com/videos/videos.aspx?catId=1&valType=2'>VideoShares</a>                        
+                            <ul><li><a href=http://www.latestt.com/videos/videos.aspx?catId=1&catName=all&valType=2><span>All</span></a></li><li><a href=http://www.latestt.com/videos/videos.aspx?catId=20&catName=art-culture&valType=2><span>Art & Culture</span></a></li><li><a href=http://www.latestt.com/videos/videos.aspx?catId=18&catName=business&valType=2><span>Business</span></a></li><li><a href=http://www.latestt.com/videos/videos.aspx?catId=19&catName=education-subjects&valType=2><span>Education Subjects</span></a></li><li><a href=http://www.latestt.com/videos/videos.aspx?catId=28&catName=engineering-entrance-exam&valType=2><span>Engineering Entrance Exam</span></a></li><li><a href=http://www.latestt.com/videos/videos.aspx?catId=29&catName=engineering-projects&valType=2><span>Engineering Projects</span></a></li><li><a href=http://www.latestt.com/videos/videos.aspx?catId=22&catName=finance&valType=2><span>Finance</span></a></li><li><a href=http://www.latestt.com/videos/videos.aspx?catId=30&catName=funny&valType=2><span>Funny</span></a></li><li><a href=http://www.latestt.com/videos/videos.aspx?catId=25&catName=gadgets&valType=2><span>Gadgets</span></a></li><li><a href=http://www.latestt.com/videos/videos.aspx?catId=27&catName=great-leaders&valType=2><span>Great Leaders</span></a></li><li><a href=http://www.latestt.com/videos/videos.aspx?catId=7&catName=health&valType=2><span>Health</span></a></li><li><a href=http://www.latestt.com/videos/videos.aspx?catId=9&catName=humor&valType=2><span>Humor</span></a></li><li><a href=http://www.latestt.com/videos/videos.aspx?catId=4&catName=information-tech-reference&valType=2><span>Information Tech Reference</span></a></li><li><a href=http://www.latestt.com/videos/videos.aspx?catId=10&catName=legal&valType=2><span>Legal</span></a></li><li><a href=http://www.latestt.com/videos/videos.aspx?catId=23&catName=lifestyle&valType=2><span>Lifestyle</span></a></li><li><a href=http://www.latestt.com/videos/videos.aspx?catId=26&catName=management-entrance-exams&valType=2><span>Management Entrance Exams</span></a></li><li><a href=http://www.latestt.com/videos/videos.aspx?catId=24&catName=others&valType=2><span>Others</span></a></li><li><a href=http://www.latestt.com/videos/videos.aspx?catId=11&catName=politics&valType=2><span>Politics</span></a></li><li><a href=http://www.latestt.com/videos/videos.aspx?catId=16&catName=religion&valType=2><span>Religion</span></a></li><li><a href=http://www.latestt.com/videos/videos.aspx?catId=12&catName=sports&valType=2><span>Sports</span></a></li><li><a href=http://www.latestt.com/videos/videos.aspx?catId=21&catName=travel-and-tourism&valType=2><span>Travel and Tourism</span></a></li></ul>                          
+                        </li>
+                        
+                        <li class="non" id="Li3"><a href='http://www.latestt.com/blog/blogs.aspx?catId=1&valType=3'>BlogShares</a></li>
+                        
+                        <li class="non" id="Li5"><a href='http://www.latestt.com/questionanswer/index.aspx?catId=1&valType=4'>AnswerShares</a>
+                         <ul><li><a href=http://www.latestt.com/questionanswer/index.aspx?catId=1&catName=all&valType=4><span>All</span></a></li><li><a href=http://www.latestt.com/questionanswer/index.aspx?catId=27&catName=art-culture&valType=4><span>Art & Culture</span></a></li><li><a href=http://www.latestt.com/questionanswer/index.aspx?catId=34&catName=automobile&valType=4><span>Automobile</span></a></li><li><a href=http://www.latestt.com/questionanswer/index.aspx?catId=14&catName=business&valType=4><span>Business</span></a></li><li><a href=http://www.latestt.com/questionanswer/index.aspx?catId=21&catName=career&valType=4><span>Career</span></a></li><li><a href=http://www.latestt.com/questionanswer/index.aspx?catId=22&catName=education&valType=4><span>Education</span></a></li><li><a href=http://www.latestt.com/questionanswer/index.aspx?catId=29&catName=finance&valType=4><span>Finance</span></a></li><li><a href=http://www.latestt.com/questionanswer/index.aspx?catId=33&catName=gadgets&valType=4><span>Gadgets</span></a></li><li><a href=http://www.latestt.com/questionanswer/index.aspx?catId=17&catName=health&valType=4><span>Health</span></a></li><li><a href=http://www.latestt.com/questionanswer/index.aspx?catId=2&catName=humor&valType=4><span>Humor</span></a></li><li><a href=http://www.latestt.com/questionanswer/index.aspx?catId=15&catName=legal&valType=4><span>Legal</span></a></li><li><a href=http://www.latestt.com/questionanswer/index.aspx?catId=30&catName=lifestyle&valType=4><span>Lifestyle</span></a></li><li><a href=http://www.latestt.com/questionanswer/index.aspx?catId=35&catName=media&valType=4><span>Media</span></a></li><li><a href=http://www.latestt.com/questionanswer/index.aspx?catId=32&catName=others&valType=4><span>Others</span></a></li><li><a href=http://www.latestt.com/questionanswer/index.aspx?catId=16&catName=politics&valType=4><span>Politics</span></a></li><li><a href=http://www.latestt.com/questionanswer/index.aspx?catId=20&catName=sports&valType=4><span>Sports</span></a></li><li><a href=http://www.latestt.com/questionanswer/index.aspx?catId=24&catName=technology&valType=4><span>Technology</span></a></li><li><a href=http://www.latestt.com/questionanswer/index.aspx?catId=28&catName=travel&valType=4><span>Travel</span></a></li></ul>
+                        </li>
+                        
+                        
+                        <li class="non" id="Li9"><a href="http://www.latestt.com/photo-share/">PhotoShares</a>
+                         <ul><li><a href=http://www.latestt.com/photo-share/photo-category.aspx?type=recently-added&catid=2&catname=business-cartoons><span>Business Cartoons</span></a></li><li><a href=http://www.latestt.com/photo-share/photo-category.aspx?type=recently-added&catid=5&catname=chemistry-diagrams><span>Chemistry Diagrams</span></a></li><li><a href=http://www.latestt.com/photo-share/photo-category.aspx?type=recently-added&catid=7&catname=electronic-circuits-diagrams><span>Electronic  Circuits Diagrams</span></a></li><li><a href=http://www.latestt.com/photo-share/photo-category.aspx?type=recently-added&catid=8&catname=geology-diagrams><span>Geology Diagrams</span></a></li><li><a href=http://www.latestt.com/photo-share/photo-category.aspx?type=recently-added&catid=3&catname=worksheets-for-kids><span>Worksheets For Kids</span></a></li></ul>
+                        </li>
+						 <li class="non" id="Li1"><a href="http://www.latestt.com/message-board/">Message Board</a>
+                        
+                        </li>
+                        	 <li class="non" id="Li10"><a href="http://www.latestt.com/forums/">Forum</a>
+                         <ul><li><a href=http://www.latestt.com/forums/forum-category.aspx?CatId=2&Title=mba-><span>MBA </span></a></li><li><a href=http://www.latestt.com/forums/forum-category.aspx?CatId=4&Title=engineering><span>Engineering</span></a></li><li><a href=http://www.latestt.com/forums/forum-category.aspx?CatId=5&Title=medical><span>Medical</span></a></li></ul>
+                        </li>
+                        <li class="non" id="Li8"><a href="http://www.latestt.com/live-tv/">Live TV</a>
+                        
+                        </li>
+                         <li class="non" id="Li11"><a href="http://www.latestt.com/poll/poll-question.aspx">Poll</a>
+                       
+                        </li>
+				  </ul>
+				  
+				   
+				<li><a href="http://www.latestt.com/accounts/inetwork.aspx">iNetwork</a>
+				<ul style="z-index:1">
+				
+                 
+                 
+                 
+                 
+                                  <li class="non"><a href="http://www.latestt.com/accounts/find-people.aspx?valType=10">
+                            Find People</a></li>
+                            
+                        <li class="non"><a href="http://www.latestt.com/accounts/featured-profile.aspx?valType=11">Featured Profiles</a></li>
+                        <li class="non"><a href="http://www.latestt.com/accounts/featured-profile.aspx?valType=11">
+                            Latestt Profile</a></li>     
+				
+				</ul>
+				
+				</li>
+				
+				<li><a href='http://www.latestt.com/ichallenge/ichallenge.aspx'>iChallenge</a>
+				<ul>
+				   
+                        
+                       
+                        <li class="non"><a href="http://www.latestt.com/docshare/challenge-doc-share.aspx?catId=1&valType=5">DocShares</a></li>
+                        
+                        <li class="non"><a href="http://www.latestt.com/videos/challenge-video.aspx?catId=1&valType=6">VideoShares</a></li>
+                        
+                        
+				</ul>
+				</li>
+				
+				
+				
+				<li>
+				<a href="http://www.latestt.com/accounts/profile.aspx">iScore</a>
+				<ul style="z-index:1">
+				   
+                            
+                             
+                             <li class="non"><a href="http://www.latestt.com/accounts/profile.aspx">My Account</a></li>
+                            
+                             <li class="non"><a href="http://www.latestt.com/accounts/profile.aspx">My Public Profile</a></li>
+                             
+				
+				</ul>
+						
+				</li>
+				
+				
+				
+				<li><a href="http://www.latestt.com/news/">News</a>
+				<ul><li><a href=http://www.latestt.com/news/news-cat.aspx?CatId=2&CatName=education-and-career><span>Education and Career</span></a></li><li><a href=http://www.latestt.com/news/news-cat.aspx?CatId=3&CatName=industry-news><span>Industry News</span></a></li><li><a href=http://www.latestt.com/news/news-cat.aspx?CatId=4&CatName=economy><span>Economy</span></a></li><li><a href=http://www.latestt.com/news/news-cat.aspx?CatId=5&CatName=media><span>Media</span></a></li><li><a href=http://www.latestt.com/news/news-cat.aspx?CatId=6&CatName=politics><span>Politics</span></a></li><li><a href=http://www.latestt.com/news/news-cat.aspx?CatId=7&CatName=latestt-in-news><span>Latestt in News</span></a></li></ul>
+				</li>
+				</li>
+				</ul>
+				
+			  <div class="top_search01">
+			    <iframe src='/searchpage.aspx' frameborder="0" scrolling="no"
+                width="240" height="28"></iframe>
+			
+			  
+				
+				</div>
+				<div class="advance_search_botton"><a href="http://www.latestt.com/common/advance-search.aspx"><img src="/images/advance_search.gif" alt="" /></a></div>
+  <div class="clear"></div>
+</div>
+<div style ="text-align :center; margin-top:5px;">
+<a href ="http://www.phonekall.com" target ="_blank" rel="nofollow"><img src ="/Images/phonekall_banner_728x90.jpg" alt ="" /></a></div>
+
+
+
+       
+        
+        <!--------  Old  -------->
+        
+        
+        
+            <!--header starts here-->
+           
+            
+            
+            <!--header ends here       1111-->
+            
+      
+            
+              
+            <div class="clear">
+            </div>
+                   
+            
+            
+            <br class="clear" />
+            
+            <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$sc1', document.getElementById('aspnetForm'));
+Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
+//]]>
+</script>
+
+            
+<script type="text/javascript">
+
+ function copy_to_clipboard()  
+        {  
+       alert("hi"); 
+       alert(document.getElementById('ctl00_CPHSiteInner_txtUrlLink').value);
+            if(window.clipboardData)  
+            {  
+           alert("hi :window.clipboardData");  
+             alert(document.getElementById('ctl00_CPHSiteInner_txtUrlLink').value);
+            window.clipboardData.setData('text',document.getElementById('ctl00_CPHSiteInner_txtUrlLink').value);  
+            }  
+            else  
+            {  
+            alert("hi :else");    
+                var clipboarddiv=document.getElementById('divclipboardswf');  
+           if(clipboarddiv==null)  
+           {  
+          alert("hi :clipboarddiv null");     
+              clipboarddiv=document.createElement('div');  
+                  clipboarddiv.setAttribute("name", "divclipboardswf");  
+              clipboarddiv.setAttribute("id", "divclipboardswf");  
+              document.body.appendChild(clipboarddiv);  
+           }  
+               clipboarddiv.innerHTML='<embed src="clipboard.swf" FlashVars="clipboard='+  
+       encodeURIComponent(document.getElementById('ctl00_CPHSiteInner_txtUrlLink').value)+'" width="0" height="0" type="application/x-shockwave-flash"></embed>';  
+           }  
+           alert("The text is copied to your clipboard...");  
+           //return false;  
+   }  
+   
+   function rateDesign(i) 
+	{
+	if(i==1) // Rating 1
+		{
+			document.getElementById('ctl00_CPHSiteInner_imgRate1').src='/images/ratings1.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate2').src='/images/ratings3.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate3').src='/images/ratings3.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate4').src='/images/ratings3.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate5').src='/images/ratings3.gif';
+		}
+
+		else if(i==2) // Rating 1.5
+		{
+			document.getElementById('ctl00_CPHSiteInner_imgRate1').src='/images/ratings1.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate2').src='/images/ratings2.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate3').src='/images/ratings3.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate4').src='/images/ratings3.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate5').src='/images/ratings3.gif';
+		}		
+
+		else if(i==3) // Rating 2
+		{
+			document.getElementById('ctl00_CPHSiteInner_imgRate1').src='/images/ratings1.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate2').src='/images/ratings1.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate3').src='/images/ratings3.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate4').src='/images/ratings3.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate5').src='/images/ratings3.gif';
+		}
+		else if(i==4) // Rating 2.5
+		{
+			document.getElementById('ctl00_CPHSiteInner_imgRate1').src='/images/ratings1.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate2').src='/images/ratings1.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate3').src='/images/ratings2.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate4').src='/images/ratings3.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate5').src='/images/ratings3.gif';
+		}
+		else if(i==5) // Rating 3
+		{
+			document.getElementById('ctl00_CPHSiteInner_imgRate1').src='/images/ratings1.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate2').src='/images/ratings1.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate3').src='/images/ratings1.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate4').src='/images/ratings3.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate5').src='/images/ratings3.gif';
+		}
+		else if(i==6) // Rating 3.5
+		{
+			document.getElementById('ctl00_CPHSiteInner_imgRate1').src='/images/ratings1.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate2').src='/images/ratings1.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate3').src='/images/ratings1.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate4').src='/images/ratings2.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate5').src='/images/ratings3.gif';
+		}
+		else if(i==7) // Rating 4
+		{
+			document.getElementById('ctl00_CPHSiteInner_imgRate1').src='/images/ratings1.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate2').src='/images/ratings1.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate3').src='/images/ratings1.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate4').src='/images/ratings1.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate5').src='/images/ratings3.gif';
+		}
+		else if(i==8) // Rating 4.5
+		{
+			document.getElementById('ctl00_CPHSiteInner_imgRate1').src='/images/ratings1.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate2').src='/images/ratings1.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate3').src='/images/ratings1.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate4').src='/images/ratings1.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate5').src='/images/ratings2.gif';
+		}
+		else if(i==9) // Rating 5
+		{
+			document.getElementById('ctl00_CPHSiteInner_imgRate1').src='/images/ratings1.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate2').src='/images/ratings1.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate3').src='/images/ratings1.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate4').src='/images/ratings1.gif';
+			document.getElementById('ctl00_CPHSiteInner_imgRate5').src='/images/ratings1.gif';
+		}
+	}
+function Write_Click()
+    {
+        collapse1.slidedown();
+    }
+    function Write_ClickFrnd()  
+    {
+        collapseFrnd.slidedown();
+    }
+    function Cancel_Click()
+    {
+        collapse1.slideup();
+    }
+    function Cancel_ClickFrnd()
+    {
+        collapseFrnd.slideup();
+    }
+function check(obj,ebj,spprt)
+{
+var z=document.getElementById(obj).offsetWidth;
+//var let=document.getElementById(obj).left;
+//alert(obj);
+var y=document.getElementById(spprt);
+var x=document.getElementById(ebj);
+x.style.display='block';
+//y.style.width=z-2+"px";
+
+if(obj=="abc")
+{
+document.getElementById("ui_data_1").style.display='none';
+document.getElementById("ui_data_2").style.display='none';
+document.getElementById("ui_data_3").style.display='none';
+document.getElementById("ui_data_4").style.display='none';
+document.getElementById("ui_data_5").style.display='none';
+document.getElementById("ui_data").style.display='block';
+y.style.marginLeft=0+"px";
+y.style.width=z-2+"px";
+}
+else if(obj=="abc1")
+{
+document.getElementById("ui_data_1").style.display='block';
+document.getElementById("ui_data").style.display='none';
+document.getElementById("ui_data_2").style.display='none';
+document.getElementById("ui_data_3").style.display='none';
+document.getElementById("ui_data_4").style.display='none';
+document.getElementById("ui_data_5").style.display='none';
+y.style.marginLeft=z+7+"px";
+y.style.width=z-2+"px";
+}
+else if(obj=="abc2")
+{
+document.getElementById("ui_data_2").style.display='block';
+document.getElementById("ui_data").style.display='none';
+document.getElementById("ui_data_1").style.display='none';
+document.getElementById("ui_data_3").style.display='none';
+document.getElementById("ui_data_4").style.display='none';
+document.getElementById("ui_data_5").style.display='none';
+y.style.marginLeft=z+42+"px";
+y.style.width=z-2+"px";
+}
+else if(obj=="abc3")
+{
+document.getElementById("ui_data_3").style.display='block';
+document.getElementById("ui_data").style.display='none';
+document.getElementById("ui_data_1").style.display='none';
+document.getElementById("ui_data_2").style.display='none';
+document.getElementById("ui_data_4").style.display='none';
+document.getElementById("ui_data_5").style.display='none';
+y.style.marginLeft=z+235+"px";
+//alert(y.style.marginLeft);
+y.style.width=z-2+"px";
+}
+else if(obj=="abc4")
+{
+document.getElementById("ui_data_4").style.display='block';
+document.getElementById("ui_data").style.display='none';
+document.getElementById("ui_data_1").style.display='none';
+document.getElementById("ui_data_2").style.display='none';
+document.getElementById("ui_data_3").style.display='none';
+document.getElementById("ui_data_5").style.display='none';
+y.style.marginLeft=z+319+"px";
+y.style.width=z-2+"px";
+}
+else if(obj=="abc5")
+{
+document.getElementById("ui_data_5").style.display='block';
+document.getElementById("ui_data").style.display='none';
+document.getElementById("ui_data_1").style.display='none';
+document.getElementById("ui_data_2").style.display='none';
+document.getElementById("ui_data_3").style.display='none';
+document.getElementById("ui_data_4").style.display='none';
+y.style.marginLeft=z+408+"px";
+y.style.width=z-2+"px";
+}
+
+//if(document.getElementById("ui_data_1").style.display=='block')
+//{
+////y.style.left=let+"px"
+//x.style.display='block';
+////y.style.marginLeft=z+7+"px";
+////y.style.width=z-2+"px";
+////alert(z);
+//}
+
+//else if(document.getElementById("ui_data").style.display=='block')
+//{
+////y.style.left=let+"px"
+//document.getElementById("ui_data_1").style.display='none';
+////y.style.marginLeft=z+7+"px";
+////y.style.width=z-2+"px";
+////alert(z);
+//}
+}
+function hide(e)
+{
+document.getElementById(e).style.display='none';
+}
+</script>
+
+ <div class="l_career_options_top_text">
+        <span><a href='http://www.latestt.com'>Home</a> >> <a href="http://www.education.latestt.com">iLearn </a> >>
+        <a href="/questionpapers.aspx"> Question Papers </a> >> 
+      <a href='/questionpapers/allcategory.aspx?CatId=9&CatName=Entrance-Exams-Question-Paper'>
+       Entrance Exams Question Paper </a>>> <a href='/questionpapers/qpdetails.aspx?CatId=37&CatName=IIT---JAM-Question-Paper'> IIT - JAM Question Paper</a>
+      >> <a href='/questionpapers/paperlists.aspx?CatId=271&CatName=IIT---JAM-Computer-Applications'> IIT - JAM Computer Applications</a>>></span> <h1>IIT JAM Question Paper  2007 Computer Applications.</h1>
+      
+    </div>
+	   
+	   <div class="l_ishare_main">
+	    <div class="left-main">
+		 
+    <div class="right_hot">
+                <div class="right_hot_top">
+                    iLearn Categories</div>
+                <div class="l_career_options_right_bg">
+                    <ul>
+                        <li><a href='/careeroptioncourse.aspx'>Career Options</a> </li>
+                                <li><a href='/universities/'>Universities In India</a> </li>
+                        <li><a href='/colleges.aspx'>Colleges in India</a></li>
+                        <li><a href='/questionpapers.aspx'>Question Papers</a></li>
+     <li><a href='/Scholarship/scholarshiplanding.aspx'>Scholarships</a>
+                        </li>
+     <li><a href='/compexams/complanding.aspx'>Competitive Exams</a></li>
+    
+    <li><a href='/entranceexams/entrancelanding.aspx'>Entrance Exams</a></li>
+    <li><a href='/updates/'>Updates & Notifications</a></li>
+    <li><a href='/project/'>Projects</a></li>
+    <li><a href='/syllabus/'>Syllabus</a></li>
+    <li><a href='/careerresource/'>Career Resources</a></li> 
+     <li>
+				<a href='/featured-colleges-in-india/'>Featured Colleges In India</a>
+				</li>
+				<li>
+				<a href='/state-education-in-india/'>State Education In India</a>
+				</li>
+				<li>
+				<a href='/topcolleges/'>Top Colleges In India</a>
+				</li>
+				<li>
+				<a href='/education-loan/'>Education Loan</a>
+				</li>
+				<li>
+				<a href='/online-education/'>Online Education</a>
+				</li>  
+                   </ul>
+                </div>
+                <div class="clear">
+                </div>
+            </div>
+
+            
+            
+
+
+
+
+
+<div class="l_google_add" style="margin-top: 5px">
+
+<a href="http://www.craffts.com" rel="nofollow">
+  <img alt="craffts" src="/Images/crafftsbanner1.gif" />
+  </a>
+</div>
+
+
+	  </div>
+        <div class="p-middle_iLearn">
+            
+            
+                                <div class="l_i_learn_edit-box" >
+								<div class="right_hot">
+		<div class="l-career_options_nave">
+		<div class="floatl"> 
+		<img src="../images/career_options_top_icone.jpg" alt="" hspace="7"/> <b>
+		IIT-JAM Question Paper- 2007 Computer Applications. Question Papers</b></div>
+		
+		 
+		<div class="upload_n">
+		
+		<a href="javascript:;;" 
+                          onclick="openpopupQP('/questionpapers/uploadquestionpaper.aspx');"> 
+                        Upload Question Papers</a>
+                          
+                             
+                          </div>
+                            <div class="clear"></div>
+		</div>
+		<div class="l-career_options_border_bg">
+		General Instruction :<br>1.For each question, you will be awarded 3 (three) marks, if you have darkened only one bubble corresponding to the correct answer.<br>2.In case you have not darkened any bubble for a question, you will be awarded 0 (zero) mark for that question.<br>3.In all other cases, you will be awarded -1 (minus one) mark for the question.
+		
+		<br /><br />
+		<div>
+		
+                    
+  Shared By: <a href="http://www.latestt.com/accounts/profile.aspx?u=682" id="ctl00_CPHSiteInner_lnkUid">
+  learnnolimit</a>&nbsp;&nbsp;&nbsp;&nbsp;                 
+Views: 382&nbsp;&nbsp;&nbsp;&nbsp; Comments: 
+0 &nbsp;&nbsp;&nbsp;&nbsp; Downloads:
+ 56 &nbsp;&nbsp;&nbsp;&nbsp; Rating :
+  <span id="ctl00_CPHSiteInner_divRating"><img src=/Images/ratings3.gif /><img src=/Images/ratings3.gif /><img src=/Images/ratings3.gif /><img src=/Images/ratings3.gif /><img src=/Images/ratings3.gif /></span>
+   
+                        
+                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Your Rating:&nbsp;
+                        <input type="image" name="ctl00$CPHSiteInner$imgRate1" id="ctl00_CPHSiteInner_imgRate1" onMouseOver="rateDesign(1)" src="/images/ratings3.gif" style="border-width:0px;" />
+                        <input type="image" name="ctl00$CPHSiteInner$imgRate2" id="ctl00_CPHSiteInner_imgRate2" onMouseOver="rateDesign(3)" src="/images/ratings3.gif" style="border-width:0px;" />
+                        <input type="image" name="ctl00$CPHSiteInner$imgRate3" id="ctl00_CPHSiteInner_imgRate3" onMouseOver="rateDesign(5)" src="/images/ratings3.gif" style="border-width:0px;" />
+                        <input type="image" name="ctl00$CPHSiteInner$imgRate4" id="ctl00_CPHSiteInner_imgRate4" onMouseOver="rateDesign(7)" src="/images/ratings3.gif" style="border-width:0px;" />
+                        <input type="image" name="ctl00$CPHSiteInner$imgRate5" id="ctl00_CPHSiteInner_imgRate5" onMouseOver="rateDesign(9)" src="/images/ratings3.gif" style="border-width:0px;" />
+                        
+                 
+  <br />
+  
+    
+		<div class="ui_tabs">
+         <a href="javascript:;"><img src="/Images/share-this.gif" id="abc" onclick="javascript:check('abc','ui_data','tui')" /></a> 
+       
+       
+           
+         <a href="javascript:;"><img src="/Images/send.gif" id="abc1" onclick="javascript:check('abc1','ui_data_1','tui_1')" /></a>
+        
+       
+          <a href="javascript:;"><img src="/Images/favorites.gif" id="abc2" onclick="javascript:check('abc2','ui_data_2','tui_2')" /></a> 
+          
+           
+          <a href="javascript:;"><img src="/Images/flag.gif" id="abc5" onclick="javascript:check('abc5','ui_data_5','tui_5')" ></a>
+          
+           
+          
+         </div>
+         <div id="ui_data" class="ui_container">
+         <div id="tui" class="ui_support"><img src="/Images/zero.gif" height="6" /></div>
+         <div class="ui_sect">
+         <a href="javascript:hide('ui_data');" class="floatr">Close X</a>
+         <b>Share This Document</b>
+         <br /><br />
+         <div class="marl">Copy and Paste URL
+         <br />
+         <input name="ctl00$CPHSiteInner$txtUrlLink" type="text" value="http://education.latestt.com/questionpapers/qpaperdescription.aspx?CatId=783&amp;CatName=IIT-JAM-Question-Paper--2007-Computer-Applications." id="ctl00_CPHSiteInner_txtUrlLink" style="width:500px;" />
+ 
+         <br /><br />
+        <!-- AddThis Button BEGIN -->
+
+        <script type="text/javascript">addthis_pub  = 'latestt';</script>
+
+        <a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')"
+            onmouseout="addthis_close()" onclick="return addthis_sendto()"><span class="v-aln">
+                <img src="http://s9.addthis.com/button1-addthis.gif" width="125" height="16" border="0"
+                    alt="" /></span></a><script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+
+        <!-- AddThis Button END -->
+        <br /></div>
+         </div>
+         </div>
+          <div id="ui_data_1" class="ui_container">
+         <div id="tui_1" class="ui_support"><img src="/Images/zero.gif" height="6" /></div>
+         <div class="ui_sect">
+         <a href="javascript:hide('ui_data_1');" class="floatr">Close X</a>
+         <b>Send This Document</b>
+         <br /><br />
+         <div class="marl">Your Name: <br />
+         <input name="ctl00$CPHSiteInner$txtYourName" type="text" id="ctl00_CPHSiteInner_txtYourName" />
+         <br /><br />
+         Send to:<br />
+         <input name="ctl00$CPHSiteInner$txtFrndEmailId" type="text" id="ctl00_CPHSiteInner_txtFrndEmailId" />
+                <span id="ctl00_CPHSiteInner_reqUser" style="color:Red;visibility:hidden;">*</span>
+                
+                <span id="ctl00_CPHSiteInner_regEmail" style="color:Red;visibility:hidden;">*
+                </span>
+                
+         <br /><br />
+         Message: <br />
+          <textarea name="ctl00$CPHSiteInner$txtFrndMess" rows="3" cols="55" id="ctl00_CPHSiteInner_txtFrndMess"></textarea>
+                <span id="ctl00_CPHSiteInner_RequiredFieldValidator1" style="color:Red;visibility:hidden;">*</span>
+                
+         <br /><br />
+         <input type="submit" name="ctl00$CPHSiteInner$btnSendFrnd" value="Send to friend" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$CPHSiteInner$btnSendFrnd&quot;, &quot;&quot;, true, &quot;invite&quot;, &quot;&quot;, false, false))" id="ctl00_CPHSiteInner_btnSendFrnd" />          
+          <input type="button" value="Cancel" onclick="hide('ui_data_1')" />
+         </div>
+         </div></div> 
+        <div id="ui_data_2" class="ui_container">
+         <div id="tui_2" class="ui_support"><img src="/Images/zero.gif" height="6" /></div>
+         <div class="ui_sect">
+         <a href="javascript:hide('ui_data_2');" class="floatr">Close X</a>
+         <b><a id="ctl00_CPHSiteInner_lnkbtnAddToFav" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$CPHSiteInner$lnkbtnAddToFav&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">Add to Favourites</a></b>
+         <br /><br />
+         <div class="marl">
+         
+         </div>
+         </div>
+         </div>
+        <div id="ui_data_3" class="ui_container">
+         <div id="tui_3" class="ui_support"><img src="/Images/zero.gif" height="6" /></div>
+         <div class="ui_sect">
+         <a href="javascript:hide('ui_data_3');" class="floatr">Close X</a>
+         <b>Did you like this Question Paper &nbsp;&nbsp;&nbsp;<input type="image" name="ctl00$CPHSiteInner$imgbtnThumbsUp" id="ctl00_CPHSiteInner_imgbtnThumbsUp" src="/Images/thumb_up.gif" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$CPHSiteInner$imgbtnThumbsUp&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" style="border-width:0px;" />&nbsp;&nbsp;
+       <input type="image" name="ctl00$CPHSiteInner$imgbtnThumbsDown" id="ctl00_CPHSiteInner_imgbtnThumbsDown" src="/Images/thumb_down.gif" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$CPHSiteInner$imgbtnThumbsDown&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" style="border-width:0px;" />
+       
+         </b>
+         <br /><br />
+         <div class="marl">
+
+         </div>
+         </div>
+         </div>
+        <div id="ui_data_4" class="ui_container">
+         <div id="tui_4" class="ui_support"><img src="/Images/zero.gif" height="6" /></div>
+         <div class="ui_sect">
+         <a href="javascript:hide('ui_data_4');" class="floatr">Close X</a>
+         <b>Embed This Document</b>
+         <br />
+         Copy the embed code below  Advanced Options
+         <br /><br />
+         <div class="marl">
+         Embed Code:<br />
+         <input name="ctl00$CPHSiteInner$TextBox3" type="text" value="[scribd id=9320721 key=key-ymcjl07w1ipk0q33mxr]" id="ctl00_CPHSiteInner_TextBox3" style="width:300px;" />  <input type="submit" name="ctl00$CPHSiteInner$Button2" value="Copy" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$CPHSiteInner$Button2&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_CPHSiteInner_Button2" />
+         <br />
+         <br />
+         Embed Code for WordPress.com<br />
+         <input name="ctl00$CPHSiteInner$TextBox4" type="text" value="[scribd id=9320721 key=key-ymcjl07w1ipk0q33mxr]" id="ctl00_CPHSiteInner_TextBox4" style="width:300px;" />  <input type="submit" name="ctl00$CPHSiteInner$Button3" value="Copy" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$CPHSiteInner$Button3&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_CPHSiteInner_Button3" />
+         <br />
+         </div>
+         </div>
+         </div>
+        <div id="ui_data_5" class="ui_container">
+         <div id="tui_5" class="ui_support"><img src="/Images/zero.gif" height="6" /></div>
+         <div class="ui_sect">
+         <a href="javascript:hide('ui_data_5');" class="floatr">Close X</a>
+         
+         Please select the reason(s) for reporting this document
+         <br />
+         <div class="marl">
+         <input id="ctl00_CPHSiteInner_chkSpam" type="checkbox" name="ctl00$CPHSiteInner$chkSpam" /><label for="ctl00_CPHSiteInner_chkSpam">Spam or junk</label>  <br />
+         <input id="ctl00_CPHSiteInner_chkAdult" type="checkbox" name="ctl00$CPHSiteInner$chkAdult" /><label for="ctl00_CPHSiteInner_chkAdult">Porn adult content</label>  <br />
+         <input id="ctl00_CPHSiteInner_chkHateful" type="checkbox" name="ctl00$CPHSiteInner$chkHateful" /><label for="ctl00_CPHSiteInner_chkHateful">Hateful or offensive</label><br /> 
+         <input id="ctl00_CPHSiteInner_chkCpyRight" type="checkbox" name="ctl00$CPHSiteInner$chkCpyRight" /><label for="ctl00_CPHSiteInner_chkCpyRight">Copyright Issue</label>&nbsp;<br /><br />
+         <br />
+         Copyright (Report it to me , our team will take an appropiate action after due dilogenie )
+         <input type="submit" name="ctl00$CPHSiteInner$btnReport" value="Report" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$CPHSiteInner$btnReport&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_CPHSiteInner_btnReport" />
+         <br />
+         </div>
+         </div>
+         </div>
+         
+         
+		
+		<div style="font-size:13px;"><b>Get registered with latestt to download full details. Its Free</b></div>
+		<div>
+		 <input type="image" name="ctl00$CPHSiteInner$imgbtnDownLoad" id="ctl00_CPHSiteInner_imgbtnDownLoad" src="../images/Subscribe-Downliad.jpg" onclick="javascript: pageTracker._trackPageview('questionpapers\QPMaster\1IIT-JAM-Question-Paper--2007-Computer-Applications..pdf');WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$CPHSiteInner$imgbtnDownLoad&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" style="border-width:0px;padding-top:8px;" />
+              
+		</div>
+		<div class="clear"></div></div>
+		<div class="l_new_search-re-blog-h">
+					<div class="l_questions_comments"><img src="../images/ishare_icone1.jpg" alt="" hspace="8" />Comments</div>
+					 
+					 <div class="l_questions_add">
+					   
+               <a href="javascript:;" onclick="javascript:Write_Click()"><b>Add Comments</b></a>
+              
+					  
+					</div>
+					 <div id="ctl00_CPHSiteInner_ucWpDescription_divlitAddCatPost" class="com-add">
+Please try again..
+</div>
+
+
+
+					 <div id="divAddComments" style="padding-top:40px">
+            <b>Add Comments:</b><br />
+            <textarea name="ctl00$CPHSiteInner$txtComments" rows="3" cols="50" id="ctl00_CPHSiteInner_txtComments"></textarea>
+            <span id="ctl00_CPHSiteInner_reqComments" style="color:Red;visibility:hidden;">*</span>
+            <br />
+            <br />
+            <div class="cr-bott">
+                <div class="gl-bott floatr">
+                    <div class="green-l">
+                    </div>
+                    <div class="green-r">
+                        <input type="submit" name="ctl00$CPHSiteInner$btnAddComment" value="Add" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$CPHSiteInner$btnAddComment&quot;, &quot;&quot;, true, &quot;comments&quot;, &quot;&quot;, false, false))" id="ctl00_CPHSiteInner_btnAddComment" style="color:White;background-color:Transparent;border-width:0px;height:30px;" /></div>
+                    <div class="green-l">
+                    </div>
+                    <div class="green-r">
+                        <input id="btnCancel" type="button" value="Cancel" onclick="Cancel_Click()" style="background: none;
+                            border: 0px; margin-top: 4px; color: #ffffff;" /></div>
+                </div>
+            </div>
+        </div>
+					<div class="clear"></div></div>
+					
+			
+                <div id="ctl00_CPHSiteInner_ucComments_divlitAddCatPost" class="com-add">
+No comment available.
+</div>
+
+
+
+                
+                
+         		
+		
+	        <span id="ctl00_CPHSiteInner_lblPaging"></span>
+
+		<div class="clear"></div>
+		
+		
+		</div>
+		
+		
+		</div>
+		
+                    
+                            
+                        
+                            
+                        
+                            
+                        
+                    <div class="clear">
+                    </div>
+                    
+                    
+                            
+				  
+                    
+                          
+                        
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                    <div class="clear"></div>
+                   
+                        
+                   
+
+              
+                    
+                    <div class="clear">
+                    </div>
+                </div>
+                
+                
+         
+        </div>
+	<div class="right_a">
+ 
+<div>
+
+<a href="http://www.latestt.com/news/news-feed.aspx"><img src="/Images/latest-news.jpg"/></a>
+<div style="margin:5px 0px 5px 0px;"><a href="/updates/update-feed.aspx"><img src="/Images/latest-updates.jpg"/></a></div>
+                </div>
+                
+<div><a href="http://www.twitter.com/Latestt"><img src='/Images/latestt_twitter.jpg' alt=""/></a></div>
+<div class="right_hot">
+<div style="margin-bottom:8px; text-align:center;"><script src="http://site.answers.com/main/js/web_answertip.js?ANSW.nafid=8" type="text/javascript"></script>
+<span id="answerTipEnabled"></span>
+<script type="text/javascript">ANSW.Trigger.showLogoIfEnabled("AnswerTips_landing_square.gif","");</script></div> 
+</div>
+
+
+        
+        
+
+<div class="l_google_add" style="margin-top: 7px">
+    
+    <a href="http://www.craffts.com" rel="nofollow">
+        <img alt="craffts" src="/Images/crafftsbanner1.gif" />
+    </a>
+</div>
+
+	
+    </div>
+    <div class="clear">
+                    </div>
+    
+	 
+ <div class="l-delhi_colleges_note">
+       <b>Note :- </b> Latestt provides general and basic information related to colleges, institutes, universities, exams 
+        guidelines, course details, news, updates offered by respective educational bodies and authorities. Information has been 
+        collected through various secondary resources available in public domain. Please contact the respective College / University / 
+        Institutes / Exam Authorities for the accurate & updated information. All rights and trademarks are reserved for their respective 
+        owners. We have tried to provide as correct details as possible. However, if you come across any error or discrepancy, do let us know 
+        about it.</div> 
+    
+       <div class="clear"></div>
+    <!-- Body ends -->
+     <script type="text/javascript">
+var collapse1=new animatedcollapse("divAddComments", 500, false)
+var collapseFrnd=new animatedcollapse("divSendToFrnd", 500, false)
+    </script>
+
+        </div>
+       
+        <div class="clear"></div>
+       
+        <div class="footer">
+        
+            <ul>
+            <li><a href="http://www.latestt.com/common/about-us.aspx">About Latestt</a></li>
+                
+                <li><a href="http://www.latestt.com/common/privacy-policy.aspx">Privacy Policy</a></li>
+                <li><a href="http://www.latestt.com/common/terms-condition.aspx">Terms & Conditions</a></li>
+                <li><a href="http://www.latestt.com/common/faq.aspx">FAQs</a></li>
+                <li><a href="http://www.latestt.com/common/advertise-with-latestt.aspx">Business Opportunities</a></li>
+               <li><a href="http://www.latestt.com/common/feedback.aspx">Feedback</a></li>
+                <li>
+                    
+                    <a href="http://www.latestt.com/accounts/graber-1.aspx">Invite Friends</a>
+                    
+                </li>
+                
+                <li><a href="http://www.latestt.com/common/sitemap.aspx">Sitemap</a></li>
+                <li><a href="http://www.latestt.com/common/contact-us.aspx">Contact Us</a></li>
+                <li><a href="http://www.latestt.com/link-resources.aspx">Link Resources</a></li>
+                <li><a href="http://blog.latestt.com/">Blog</a></li>
+                 
+            
+                
+               
+  </ul>
+        <span style=" color:Gray; font-size:11px;">Copyright © 2008-2010 Latestt.com .All rights reserved.  </span>
+        </div>
+        <div id="ctl00_vsSearch" style="color:Red;display:none;">
+
+</div>
+        
+           
+    
+<script type="text/javascript">
+<!--
+var Page_ValidationSummaries =  new Array(document.getElementById("ctl00_vsSearch"));
+var Page_Validators =  new Array(document.getElementById("ctl00_CPHSiteInner_reqUser"), document.getElementById("ctl00_CPHSiteInner_regEmail"), document.getElementById("ctl00_CPHSiteInner_RequiredFieldValidator1"), document.getElementById("ctl00_CPHSiteInner_reqComments"));
+// -->
+</script>
+
+<script type="text/javascript">
+<!--
+var ctl00_CPHSiteInner_reqUser = document.all ? document.all["ctl00_CPHSiteInner_reqUser"] : document.getElementById("ctl00_CPHSiteInner_reqUser");
+ctl00_CPHSiteInner_reqUser.controltovalidate = "ctl00_CPHSiteInner_txtFrndEmailId";
+ctl00_CPHSiteInner_reqUser.errormessage = "Please Enter Friend EmailId";
+ctl00_CPHSiteInner_reqUser.validationGroup = "invite";
+ctl00_CPHSiteInner_reqUser.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_CPHSiteInner_reqUser.initialvalue = "";
+var ctl00_CPHSiteInner_regEmail = document.all ? document.all["ctl00_CPHSiteInner_regEmail"] : document.getElementById("ctl00_CPHSiteInner_regEmail");
+ctl00_CPHSiteInner_regEmail.controltovalidate = "ctl00_CPHSiteInner_txtFrndEmailId";
+ctl00_CPHSiteInner_regEmail.errormessage = "InVaild E-mail ID ";
+ctl00_CPHSiteInner_regEmail.evaluationfunction = "RegularExpressionValidatorEvaluateIsValid";
+ctl00_CPHSiteInner_regEmail.validationexpression = "\\w+([-+.\']\\w+)*@\\w+([-.]\\w+)*\\.\\w+([-.]\\w+)*";
+var ctl00_CPHSiteInner_RequiredFieldValidator1 = document.all ? document.all["ctl00_CPHSiteInner_RequiredFieldValidator1"] : document.getElementById("ctl00_CPHSiteInner_RequiredFieldValidator1");
+ctl00_CPHSiteInner_RequiredFieldValidator1.controltovalidate = "ctl00_CPHSiteInner_txtFrndMess";
+ctl00_CPHSiteInner_RequiredFieldValidator1.errormessage = "Please enter a message";
+ctl00_CPHSiteInner_RequiredFieldValidator1.validationGroup = "invite";
+ctl00_CPHSiteInner_RequiredFieldValidator1.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_CPHSiteInner_RequiredFieldValidator1.initialvalue = "";
+var ctl00_CPHSiteInner_reqComments = document.all ? document.all["ctl00_CPHSiteInner_reqComments"] : document.getElementById("ctl00_CPHSiteInner_reqComments");
+ctl00_CPHSiteInner_reqComments.controltovalidate = "ctl00_CPHSiteInner_txtComments";
+ctl00_CPHSiteInner_reqComments.validationGroup = "comments";
+ctl00_CPHSiteInner_reqComments.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_CPHSiteInner_reqComments.initialvalue = "";
+var ctl00_vsSearch = document.all ? document.all["ctl00_vsSearch"] : document.getElementById("ctl00_vsSearch");
+ctl00_vsSearch.showmessagebox = "True";
+ctl00_vsSearch.showsummary = "False";
+ctl00_vsSearch.validationGroup = "mainsearch";
+// -->
+</script>
+
+
+<script type="text/javascript">
+<!--
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+// -->
+</script>
+        
+<script type="text/javascript">
+<!--
+Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.ValidatorCalloutBehavior, {"closeImageUrl":"/WebResource.axd?d=eRy6YDHsI2G26JfwBOcy7FwnBiLLr-fgLKyC4-pvS8WDwRzt7uxaqpMIlk5aYrnquoDOL9P1jpp9WSwGQooBCuGfVnYRa0MSBLzyTjhVIO01&t=634477834348250000","highlightCssClass":"validatorCalloutHighlight","id":"ctl00_CPHSiteInner_NReqU","warningIconImageUrl":"/WebResource.axd?d=eRy6YDHsI2G26JfwBOcy7FwnBiLLr-fgLKyC4-pvS8WDwRzt7uxaqpMIlk5aYrnqLs7Qi7w2qLCvgGIUkkU2CPIIJU83S7AZ3CUAxZZSY681&t=634477834348250000"}, null, null, $get("ctl00_CPHSiteInner_reqUser"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.ValidatorCalloutBehavior, {"closeImageUrl":"/WebResource.axd?d=eRy6YDHsI2G26JfwBOcy7FwnBiLLr-fgLKyC4-pvS8WDwRzt7uxaqpMIlk5aYrnquoDOL9P1jpp9WSwGQooBCuGfVnYRa0MSBLzyTjhVIO01&t=634477834348250000","highlightCssClass":"validatorCalloutHighlight","id":"ctl00_CPHSiteInner_NReqE","warningIconImageUrl":"/WebResource.axd?d=eRy6YDHsI2G26JfwBOcy7FwnBiLLr-fgLKyC4-pvS8WDwRzt7uxaqpMIlk5aYrnqLs7Qi7w2qLCvgGIUkkU2CPIIJU83S7AZ3CUAxZZSY681&t=634477834348250000"}, null, null, $get("ctl00_CPHSiteInner_regEmail"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.ValidatorCalloutBehavior, {"closeImageUrl":"/WebResource.axd?d=eRy6YDHsI2G26JfwBOcy7FwnBiLLr-fgLKyC4-pvS8WDwRzt7uxaqpMIlk5aYrnquoDOL9P1jpp9WSwGQooBCuGfVnYRa0MSBLzyTjhVIO01&t=634477834348250000","highlightCssClass":"validatorCalloutHighlight","id":"ctl00_CPHSiteInner_ValidatorCalloutExtender1","warningIconImageUrl":"/WebResource.axd?d=eRy6YDHsI2G26JfwBOcy7FwnBiLLr-fgLKyC4-pvS8WDwRzt7uxaqpMIlk5aYrnqLs7Qi7w2qLCvgGIUkkU2CPIIJU83S7AZ3CUAxZZSY681&t=634477834348250000"}, null, null, $get("ctl00_CPHSiteInner_RequiredFieldValidator1"));
+});
+// -->
+</script>
+</form>
+  <script type="text/javascript">
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script>
+
+<script type="text/javascript">
+
+try {
+
+var pageTracker = _gat._getTracker("UA-7515416-1");
+
+pageTracker._setDomainName(".latestt.com");
+
+pageTracker._trackPageview();
+
+} catch(err) {}</script>
+
+<!-- vzSense -->
+
+<script type="text/javascript" src="http://vizisense.net/pixel.js"></script>
+<script type="text/javascript">_vz_accountID="J/Fq00x4Pwhjj+YG072PxQ=="; if(typeof(_vz_sense) == "function") _vz_sense();</script>
+
+<noscript>
+  <img src="http://vizisense.net/cgi-bin/trail.fcgi?accountID=J/Fq00x4Pwhjj+YG072PxQ==&isScript=false" style="display: none;" border="0" height="1" width="1" alt="vzSense"/>
+</noscript>
+<!-- /vzSense -->
+
+<script src='http://toolbar.wibiya.com/toolbarLoader.php?toolbarId=23859' type='text/javascript'></script>
+
+  <!-- Kontera ContentLink(TM);-->
+<script type='text/javascript'>
+var dc_AdLinkColor = '#0072bc' ;
+var dc_PublisherID = 122889 ;
+var dc_open_new_win = 'yes';
+var dc_adprod='ADL';
+
+</script>
+<script type='text/javascript' src='http://kona.kontera.com/javascript/lib/KonaLibInline.js'>
+</script>
+<!-- Kontera ContentLink(TM) -->
+<script src='http://toolbar.wibiya.com/toolbarLoader.php?toolbarId=23859' type='text/javascript'></script>
+</body>
+</html>
